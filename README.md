@@ -7,8 +7,10 @@
 
 > Vuejs : v2.9.3
 
+> Expressjs :v3.x
+
 # Explaination
-> A Web App which can be used for translation from one language to another
+> A Web App which can be used for translation from one language to another,served by express server.
 
 ## Build Setup
 
