@@ -4,9 +4,10 @@
 
 # Requirements 
 > Nodejs : v8.10.0
+
 > Vuejs : v2.9.3
 
-# Described
+# Explaination
 > A Web App which can be used for translation from one language to another
 
 ## Build Setup
