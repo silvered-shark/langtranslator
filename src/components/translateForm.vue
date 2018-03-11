@@ -7,6 +7,10 @@
          <option value='en'>English</option>
          <option value='ru'>Russian</option>
          <option value='zh'>Chinese</option>
+         <option value='fr'>French</option>
+         <option value='ja'>Japenese</option>
+         <option value='pa'>Punjabi</option>
+         
        </select>
        <br>
        <input class="btn btn-primary" type="submit" value="Translate">
