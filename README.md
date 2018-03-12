@@ -1,6 +1,6 @@
 # Languagetranslator
 
-> Simple Language Translator
+> Simple Language Translator Web App
 
 # Requirements 
 
