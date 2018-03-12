@@ -1,6 +1,9 @@
 # Languagetranslator
 
-> Simple Language Translator Web App
+> Simple Language Translator [Web App](https://langtranslator.herokuapp.com)
+
+# Explaination
+> A [Web App](https://langtranslator.herokuapp.com) which can be used for translation from one language to another ,frontend works on Javascript framework and backend on express server.
 
 # Requirements 
 
@@ -14,9 +17,6 @@
 ```
  > Vuejs : v2.9.3
 ```
-# Explaination
-> A [Web App](https://langtranslator.herokuapp.com) which can be used for translation from one language to another ,frontend works on Javascript framework and backend on express server.
-
 ## Build Setup
 
 ``` bash
