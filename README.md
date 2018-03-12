@@ -15,7 +15,7 @@
  > Vuejs : v2.9.3
 ```
 # Explaination
-> A Web App which can be used for translation from one language to another ,frontend works on Javascript framework and backend on express server.
+> A [Web App](langtranslator.herokuapp.com) which can be used for translation from one language to another ,frontend works on Javascript framework and backend on express server.
 
 ## Build Setup
 
