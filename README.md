@@ -3,14 +3,19 @@
 > Simple Language Translator
 
 # Requirements 
-> Nodejs : v8.10.0
 
-> Vuejs : v2.9.3
+## Backend
+ ```
+  > Nodejs : v8.10.0
 
-> Expressjs :v3.x
-
+  > Expressjs :v3.x
+```
+## Frontend
+```
+ > Vuejs : v2.9.3
+```
 # Explaination
-> A Web App which can be used for translation from one language to another,served by express server.
+> A Web App which can be used for translation from one language to another ,frontend works on Javascript framework and backend on express server.
 
 ## Build Setup
 
